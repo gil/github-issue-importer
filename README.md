@@ -15,6 +15,8 @@ Do something #frontend #backend
 Do something else #iOS
 ```
 
+And this is the [importer result](https://github.com/gil/github-issue-importer/issues?milestone=1&state=open) :]
+
 ## How to use it
 
 Install dependencies:
