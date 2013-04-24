@@ -4,7 +4,7 @@ Handy little tool to import Github issues from a text file!
 
 ## Text file syntax
 
-```text
+```
 Login
 Design interface #design
 Create user interface #frontend
