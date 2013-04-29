@@ -5,6 +5,17 @@ Handy little tool to import Github issues from a text file!
 ## Text file syntax
 
 ```
+Group 1
+First task
+Second task
+
+Group 2
+Another task
+```
+
+Example:
+
+```
 Login
 Design interface #design
 Create user interface #frontend
